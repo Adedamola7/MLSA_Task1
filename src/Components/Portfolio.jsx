@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desktop.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A picture of a desk with a laptop, notebook, and coffee.";
 
 /**
  * Project list
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Portfolio Website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Explore a creative journey through my portfolio website, showcasing a diverse collection of my artistic endeavors and design projects.",
+    url: "https://github.com/Adedamola7/portfolio-website",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Facebook Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Embark on a virtual social experience with the Facebook Clone project, a platform that mirrors the essence of connecting and sharing in the digital age.",
+    url: "https://github.com/Adedamola7/facebook-clone",
   },
   {
-    title: "My Resume Site",
+    title: "Automated Email Sender",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      ".streamlining your correspondence through an intelligent and time-saving system that sends emails to multiple recipients with a single click.",
+    url: "hhttps://github.com/Adedamola7/Email-Sender-With-Python",
   },
   {
     title: "GitHub Codespaces and github.dev",
